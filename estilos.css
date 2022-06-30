@@ -1,0 +1,88 @@
+.title{
+    margin-top: 12%;
+    font-size:300%;
+    
+}
+
+body{
+    font-family: "MBCorpo Title" ;
+    background-color: rgb(255, 255, 255);
+}
+.hero-content{
+  margin-bottom: 0%;
+}
+
+.call-action{
+    margin-top: 10%;
+}
+
+.bajada{
+    margin-top: -1%;
+}
+
+.masInfo{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    font-weight: 500;
+    background-color: rgb(33 37 41);
+    color: white;
+    border: 2px solid;
+    border-radius: 12px;
+    padding: 5px;
+    
+}
+
+.section-info{
+   position: relative;
+   left: 10%;
+   margin-top: -7%;
+   font-weight: 700 ;
+}
+
+.cardInfo{
+    margin: auto;
+    width: 100%;
+    
+}
+
+.miniCarousel{
+    margin: auto;
+}
+
+.footer{
+    background-color: rgb(33 37 41);
+    margin-top: -0.7%;
+}
+
+.footerContent{
+    color: white;
+    font-size: 80%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    margin-left: 2%;
+}
+
+.logos{
+    color: white; 
+    margin-top: 18%;
+    margin-bottom: 10%;
+    margin-left: 2%;
+}
+
+.sponsors{
+    text-align: center;
+}
+
+a {
+    transition: background-color .5s;
+  }
+
+.hover:hover{
+    background-color: rgb(33 37 41);
+    opacity: 30%;
+}
+
+.navItems:hover{
+    text-decoration: underline;
+}
